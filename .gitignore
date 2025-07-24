@@ -3,7 +3,4 @@ __pycache__/
 venv/
 *.pyc
 data/*.db
-__pycache__/
-venv/
-*.pyc
 crypto_data.db
