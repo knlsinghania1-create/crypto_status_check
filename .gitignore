@@ -6,3 +6,4 @@ data/*.db
 __pycache__/
 venv/
 *.pyc
+crypto_data.db
